@@ -4,6 +4,7 @@
 ###############################
 
 # Import packages
+library(data.table)
 library(seqminer)
 library(susieR)
 
